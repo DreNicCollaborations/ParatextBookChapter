@@ -19,27 +19,7 @@ Conversely, the more formal quantitative methods of CSCW use an ex-situ approach
 Information science has much to offer the field of CSCW, including its rich history of metric based analysis of collaboration, co-production (authorship, bibliographic coupling, etc) and network analysis. However, CSCW rarely considers scholarly publications, or formally published literature as a data source for investigating cooperative work. There are a number of reasons for this omission; the publication of research article are slow, citations take many years to accumulate and can't be relied upon for design interventions; journal articles and books tend to be authored by a few elite members of a research group that cite other elite members- in order to understand a technology in use, or a potential improvement of a collaborative arrangement it is often necessary to study those that are not a part of this elite class of authors, and are often invisible to such rationalized models of authorship (Suchman, 2007).
 
 These are all relevant critiques and limitations of using publications, and formal scholarly products as a data source for CSCW study. Here, we suggest a way to use scientometric techniques as a methodological bridge between the quantitative and qualitative divide of CSCW research. We believe there is much to be gained by more informed in-situ studies, and quick and dirty ex-situ - and that 
-
- {why does this matter to Information Science}  <--- It has to be a vice versa- there is much to be gained by both sides. 
  
- In particular, CSCW has  
-
-  
-
-
-Here, we suggest a third approach to the quantitative and qualitative divide of CSCW research that is informed by 
-
-
- can be a fruitful way to study cooperative work from an information science purview. As has been observed, and studied by others () there is a tradition in some scientific cultures of acknowledging the contribution of others in the effort, analysis, or general ideas 
-
-We propose that these are traces of cooperative work that extend the reach of scholarly network, not just in terms of formal authorship, but as a hit-tip or 
-
-
- ones that give evidence of not just the 
-
-Building off 
-
-
-
+{why does this matter to Information Science}  <--- It has to be a vice versa- there is much to be gained by both sides.  
  
-They represent, as Sharon Traweek put it, the 
+The formally published literature represents, as Sharon Traweek put it, the ledger of science - who made what claim when. 
