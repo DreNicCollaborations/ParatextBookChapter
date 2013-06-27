@@ -23,3 +23,8 @@ These are all relevant critiques and limitations of using publications, and form
 {why does this matter to Information Science}  <--- It has to be a vice versa- there is much to be gained by both sides.  
  
 The formally published literature represents, as Sharon Traweek put it, the ledger of science - who made what claim when. 
+
+
+#####Method
+
+[should discuss the symmetry of our method and those of bioinformatics -- the field has largely embraced a computational appraoch to inquiry, leveraging the increased power of multi-core processors to ask new questions about biological systems that were difficult, if not impossible to operationalize in laboratory setting. Our own methods draw upon previous work, notably Cronin, Shaw and Labarre (2004), in constructing a classification of acknowledgement types- but our operationalization of this study diverges greatly. We took advantage of increased access to texts via full content API's and used text-mining algorithms to extract a sample size, which by previous analogue standards would seem unthinkable (n=?)   
