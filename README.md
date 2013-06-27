@@ -1,4 +1,6 @@
-ParatextBookChapter
+Paratext Bookchapter
 ===================
 
-Working space for book chapter. 
+Working space for book chapter.         
+@nniiicc        
+@AKTOAM
