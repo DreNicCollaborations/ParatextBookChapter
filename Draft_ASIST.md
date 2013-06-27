@@ -3,7 +3,7 @@
 <br>
         
 #####Abstract
-Information science has traditionally looked at the journal article as an artifact of scholarly work, using elements like authorship, or citation lists to trace meaningful connections between idnividuals, locales or subjects. Here, we build off of previous works that have used acknowledgment statements as a way of understanding the collaborative nature of software development in cooperative work settings. We discuss implications for the study of cooperative work more generally, and provide some preliminary results from a pilot study of bioinformatics as an exemplar of the software-intensive engineering discipline. 
+Information science has traditionally looked at the journal article as an artifact of scholarly work, using elements like authorship, or citation lists to trace meaningful connections between idnividuals, locales or subjects. Here, we build off of previous works that have used the acknowledgment statements found in published journal articles as a way of understanding the collaborative nature of bioinformatics as a cooperative discipline that developes software and information systems to enable new discoveries to be made. We discuss implications for the study of cooperative work more generally, and provide some preliminary results from a pilot study of bioinformatics as an exemplar of the software-intensive engineering discipline. 
 
 #####Introduction
 Our aim here is to bring an information science tradition of scientometrics to the study of 
