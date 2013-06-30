@@ -36,16 +36,20 @@ Together, both authors coded a sample of acknowledgement sections from the journ
 **Financial** (unchanged)
 <br>**Moral** (unchanged)
 <br>**Editorial** (unchanged)
+
 <br>**Conceptual**  (includes help with research design, software design, "helpful discussions," and other contributions to the conceptual framework of the project. altered from Cronin; described in more detail below)
-        - statistical/mathematical
-        - software design
+- statistical/mathematical
+- software design
+
 <br>**Material/Instrumental** (expanded from Cronin; described in more detail below)
-        - providing access to data
-        - computing access/facilities
+- providing access to data
+- computing access/facilities
+
 <br>**Technical** (expanded from Cronin; described in more detail below)
-        - technical instruction (software/hardware)
-        - software/hardware implementation
-        - debugging/refactoring
+- technical instruction (software/hardware)
+- software/hardware implementation
+- debugging/refactoring
+
 <br>**Unknown**
 
 This codelist parts from Cronin, Shaw and LaBarre's classification scheme in several key ways:
