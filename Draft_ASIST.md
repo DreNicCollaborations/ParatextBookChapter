@@ -25,6 +25,40 @@ These are all relevant critiques and limitations of using publications, and form
 The formally published literature represents, as Sharon Traweek put it, the ledger of science - who made what claim when. 
 
 
-#####Method
+#####Methods
 
-[should discuss the symmetry of our method and those of bioinformatics -- the field has largely embraced a computational appraoch to inquiry, leveraging the increased power of multi-core processors to ask new questions about biological systems that were difficult, if not impossible to operationalize in laboratory setting. Our own methods draw upon previous work, notably Cronin, Shaw and Labarre (2004), in constructing a classification of acknowledgement types- but our operationalization of this study diverges greatly. We took advantage of increased access to texts via full content API's and used text-mining algorithms to extract a sample size, which by previous analogue standards would seem unthinkable (n=?)   
+[should discuss the symmetry of our method and those of bioinformatics -- the field has largely embraced a computational appraoch to inquiry, leveraging the increased power of multi-core processors to ask new questions about biological systems that were difficult, if not impossible to operationalize in laboratory setting.] 
+
+Our own methods draw upon previous work -- most heavily on Cronin, Shaw and Labarre (2004) -- in constructing a classification of acknowledgement types. However our operationalization of this study diverges greatly. We took advantage of increased access to texts via full content API's and used text-mining algorithms to extract a sample size, which by previous analogue standards would seem unthinkable (n=250 out of a corpus of approx 9741). <--- does that seem like enough?  appropriately unthinkable?    
+
+Together, both authors coded a sample of acknowledgement sections from the journal _Bioinformatics_ to according to Cronin, Shaw and LaBarre's 2004 classification scheme, noting cases where the classification scheme could be expanded to highlight computational contributions to scholarhip in a more detailed manner.  Both authors then separately coded a second sample set of acknowledgment sections, and compared the resulting codes to further refine our codelist.  Our final codelist follows:
+**Financial** (unchanged)
+**Moral** (unchanged)
+**Editorial** (unchanged)
+**Conceptual**  (includes help with research design, software design, "helpful discussions," and other contributions to the conceptual framework of the project. altered from Cronin; described in more detail below)
+- statistical/mathematical
+- software design
+**Material/Instrumental** (expanded from Cronin; described in more detail below)
+- providing access to data
+- computing access/facilities
+**Technical** (expanded from Cronin; described in more detail below)
+- technical instruction (software/hardware)
+- software/hardware implementation
+- debugging/refactoring
+**Unknown**
+
+This codelist parts from Cronin, Shaw and LaBarre's classification scheme in several key ways:
+-  We consider statistical/mathematical assistance a conceptual contribution.  We additionally consider software design a conceptual contribution; in many cases software is a primary research output in bioinformatics.
+- We split Instrumental contributions from Technical contributions; Instrumental contributions also consist of "Material" contributions that range from computation facilities to the provision of finite resources like reagants and other chemical compounds
+- We specifically noted acknowledgement of data providers and computational facilities as subcategories under the Instrumental/Material category
+-We specifically note several different kinds of technical support.
+
+Finally, the authors separately coded a final sample set of acknowledgement sections (n=200) according to this more refined scheme, and compared classifications to assess intercoder reliabilty (presented below).
+
+#####Results
+
+#####Discussion/Conclusions
+
+Why do we do this and what are the known problems with this?
+We feel these more nuanced categories will support our goal of making technical contributions more visible. Additionally, we note that technical contributions can be particularly difficult to 
+
